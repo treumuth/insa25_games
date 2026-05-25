@@ -68,7 +68,7 @@ if(obstacleLeft < 150 &&
 obstacleLeft > 50 &&
 playerBottom < 50){
 
-text.innerHTML = "GAME OVER";
+text.textContent = "Mäng läbi!";
 
 obstacle.style.animation = "none";
 

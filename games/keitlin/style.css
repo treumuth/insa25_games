@@ -1,7 +1,15 @@
-body{
-background: skyblue;
-text-align: center;
-font-family: Arial;
+body {
+  background: skyblue;
+  text-align: center;
+  font-family: system-ui, Arial, sans-serif;
+}
+
+.back {
+  margin-top: 1rem;
+}
+
+.back a {
+  color: #1a5276;
 }
 
 #game{
